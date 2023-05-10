@@ -3,6 +3,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZacRayTho&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LInkedIn-Zachary-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zacraytho)
+[![Email](https://img.shields.io/badge/Email-Zachary-success?style=for-the-badge&logo=Minutemailer)](mailto:zacraytho@gmail.com)
 <!--
 **ZacRayTho/ZacRayTho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
