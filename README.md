@@ -1,7 +1,6 @@
-### Hi there 👋
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZacRayTho&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+## Get in contact!
 [![LinkedIn](https://img.shields.io/badge/LInkedIn-Zachary-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zacraytho)
 [![Email](https://img.shields.io/badge/Email-Zachary-success?style=for-the-badge&logo=Minutemailer)](mailto:zacraytho@gmail.com)
 <!--
