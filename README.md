@@ -7,7 +7,8 @@
 ## Get in contact!
 
 [![LinkedIn](https://img.shields.io/badge/LInkedIn-Zachary-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zacraytho)
-[![Email](https://img.shields.io/badge/Email-Zachary-success?style=for-the-badge&logo=Minutemailer)](mailto:zacraytho@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zacraytho@gmail.com-success?style=for-the-badge&logo=Minutemailer)](mailto:zacraytho@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Zachary-red?style=for-the-badge)](https://zac-ray-tho-github-io.vercel.app/)
 <!--
 **ZacRayTho/ZacRayTho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
