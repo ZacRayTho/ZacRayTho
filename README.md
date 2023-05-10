@@ -1,6 +1,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZacRayTho&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+### Tools
+
+![tools](https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,tailwind,js,react,nextjs,py,postgres,django)
+
 ## Get in contact!
+
 [![LinkedIn](https://img.shields.io/badge/LInkedIn-Zachary-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/zacraytho)
 [![Email](https://img.shields.io/badge/Email-Zachary-success?style=for-the-badge&logo=Minutemailer)](mailto:zacraytho@gmail.com)
 <!--
