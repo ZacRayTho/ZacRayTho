@@ -1,5 +1,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZacRayTho&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Toolbelt
 
 ![tools](https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,tailwind,js,react,nextjs,py,postgres,django)
