@@ -1,7 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZacRayTho&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 ## Toolbelt
 
