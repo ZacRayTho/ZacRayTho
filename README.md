@@ -1,6 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZacRayTho&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-[![ZacRayTho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZacRayTho)]
+[![ZacRayTho's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ZacRayTho)](https://github-readme-stats.vercel.app/api/wakatime?username=ZacRayTho)
 
 ## Toolbelt
 
