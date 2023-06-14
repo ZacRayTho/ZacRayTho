@@ -4,6 +4,7 @@
 
 ## Toolbelt
 
+
 ![tools](https://skillicons.dev/icons?i=git,github,vscode,html,css,bootstrap,tailwind,js,react,nextjs,py,postgres,django)
 
 ## Get in contact!
@@ -15,6 +16,7 @@
 **ZacRayTho/ZacRayTho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 #remember to commit daily
+remember to commit daily
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
